@@ -1,0 +1,31 @@
+"""
+-------------------------------------------------------
+testing.txt
+CP213 Documentation Lab Testing
+-------------------------------------------------------
+Author:  Mehdi Al-heloo
+ID:      169063997
+Email:   alhe3997@mylaurier.ca
+Version: 2025-01-23
+-------------------------------------------------------
+"""
+Enter positive integers to total. Enter 'q' to quit:
+1
+1
+1
+2
+what
+'what' is not an integer or 'q'.
+-2
+Negative numbers are ignored.
+3
+q
+Total: 8
+----------------------------------------
+Lines: 80
+----------------------------------------
+Tokens: 262
+----------------------------------------
+Words: 6
+----------------------------------------
+Done
